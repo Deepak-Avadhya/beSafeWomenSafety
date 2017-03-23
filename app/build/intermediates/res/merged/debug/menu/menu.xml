@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item  android:id="@+id/registerContact"
+        android:title="registerContact"/>
+    <item  android:id="@+id/registerYourself"
+        android:title="registerYourself"/>
+    <item  android:id="@+id/getGPS"
+        android:title="getGPS"/>
+
+</menu>

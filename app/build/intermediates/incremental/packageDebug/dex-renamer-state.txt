@@ -1,0 +1,7 @@
+#Tue Jan 17 23:08:12 IST 2017
+base.0=C\:\\Users\\Deepak Kumar\\Documents\\failsafe2\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ca7d826f840446475295f6e2b50763d35b8a2f2a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Deepak Kumar\\Documents\\failsafe2\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_98e2d14393b8f9e1c2f2ec87f06d2c645d91aff5\\classes.dex
+base.1=C\:\\Users\\Deepak Kumar\\Documents\\failsafe2\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_98e2d14393b8f9e1c2f2ec87f06d2c645d91aff5
+file.0=C\:\\Users\\Deepak Kumar\\Documents\\failsafe2\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ca7d826f840446475295f6e2b50763d35b8a2f2a\\classes.dex
